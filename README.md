@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- I'm a sophomore at Ataneo de Manila
+- I'm currently trying to learn out the basics of github
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I like to eat.
 <!--
 **wekadoodle/wekadoodle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
