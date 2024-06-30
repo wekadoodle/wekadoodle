@@ -3,6 +3,7 @@
 - I'm currently trying to learn out the basics of github
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love anime and am an avid lover of food.
+- Feel free to check out my projects!
 <!--
 **wekadoodle/wekadoodle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
